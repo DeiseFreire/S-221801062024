@@ -1,3 +1,5 @@
+![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
+
 **O que este código faz:**
 
 Este código LaTeX calcula a função composta $gof(x)$, onde:
