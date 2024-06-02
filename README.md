@@ -27,7 +27,7 @@ Para compilar este código LaTeX e gerar um documento PDF, você precisará de u
  - `pdflatex main.tex` (para pdfLaTeX)
  - `xelatex main.tex` (para XeLaTeX)
  - `lualatex main.tex` (para LuaLaTeX)
-5. Isso criará um arquivo PDF (por exemplo, `função_composta.pdf`) contendo a saída formatada.
+5. Isso criará um arquivo PDF (por exemplo, `funcao_composta.pdf`) contendo a saída formatada.
 
 **Notas Adicionais:**
 
