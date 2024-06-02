@@ -31,3 +31,7 @@ Para compilar este código LaTeX e gerar um documento PDF, você precisará de u
 
 * Sinta-se à vontade para modificar o código para explorar outras funções ou cálculos.
 * Para recursos mais avançados do LaTeX, consulte a documentação ou tutoriais do LaTeX.
+
+**Imagem:**
+
+[imagem](https://github.com/DeiseFreire/S-221801062024/blob/main/main.tex)
