@@ -34,4 +34,4 @@ Para compilar este código LaTeX e gerar um documento PDF, você precisará de u
 
 **Imagem:**
 
-[imagem](https://github.com/DeiseFreire/S-221801062024/blob/main/main.tex)
+![imagem](https://github.com/DeiseFreire/S-221801062024/blob/main/img.png)
