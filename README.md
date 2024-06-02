@@ -1,4 +1,4 @@
-![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
+![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg) ![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 **O que este código faz:**
 
