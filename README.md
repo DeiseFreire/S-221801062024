@@ -1,4 +1,4 @@
-![imagem](https://img.icons8.com/?size=48&id=NosgVxQYkbPd&format=png)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 **O que este código faz:**
 
